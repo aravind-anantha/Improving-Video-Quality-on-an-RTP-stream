@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Referred from https://gist.github.com/nacx/733177
+# This code was referred from https://gist.github.com/nacx/733177
 
 # This script enqueues packets in three queues, each one
 # with a different priority:
